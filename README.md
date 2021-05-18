@@ -6,9 +6,9 @@
 ## My pens on 👇🏼
 ### [CodePen.io](https://codepen.io/your-work?cursor=ZD0wJm89MSZwPTEmdj00OTYyMTMwOA==)
 ## My GitHub Pages
-### [1. My first html](https://pedrojsbezerra.github.io/MeuPrimeiroProjeto/)
-### [2. Maratona Discover By RocketSeat. Thanks Mayk Brito!](https://pedrojsbezerra.github.io/rocketSeat-MaratonaDiscover/)
-### [3. webdev.com](https://pedrojsbezerra.github.io/webdev.com/)
+### [1. My first html](https://pedrojsbezerra.github.io/MeuPrimeiroProjeto)
+### [2. Maratona Discover By RocketSeat. Thanks Mayk Brito!](https://pedrojsbezerra.github.io/rocketSeat-MaratonaDiscover)
+### [3. webdev.com](https://pedrojsbezerra.github.io/webdev.com)
 
-## Vercel deploy react page edited on codesandbox.io 
-### [Vercel deployed](https://csb-uoq1e-jkrzdy4by-pedrojsbezerra.vercel.app/)
+## Vercel deploy
+### [4. shophome](https://shop-home-self.vercel.app)
